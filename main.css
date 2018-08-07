@@ -1,0 +1,16 @@
+.calc {
+    width: 40px;
+    text-align: center;
+    border-right: none;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.results {
+    width: 155px;
+    text-align: center;
+}
+
+#loading, #results {
+    display: none;
+}
